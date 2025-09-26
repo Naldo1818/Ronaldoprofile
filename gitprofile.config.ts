@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'HospitalSystem',
+          title: 'Hospital-System',
           description:
             'Implementing the surgery booking system (capturing surgeon, patient, date, session, and theatre). Developing the prescription module, ensuring surgeons could add medication while the system automatically checked for contra-indications, allergies, and interactions. Implementing an alert system that notifies surgeons of potential medication risks, requiring a justification if overridden. Ensuring surgeons could view prescription statuses and respond to pharmacist feedback. This project demonstrated my ability to work in a team while handling complex database interactions, validation logic, and user interface development for medical professionals',
           imageUrl:
-              'assets/Hospital.png',
+              'src/assets/Hospital.png',
               link: 'https://github.com/Naldo1818/HospitalSystem',
         },
         {
-          title: 'Project Name',
+            title: 'Music-Player',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A Music player to play local music from your device.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            link: 'https://github.com/Naldo1818/MusicPlayer',
         },
       ],
     },
