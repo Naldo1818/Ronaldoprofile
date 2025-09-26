@@ -51,11 +51,11 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Ronaldo Jansen', description: 'Junior Developer', imageURL: '' },
   social: {
-    linkedin: 'ronaldo',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+      linkedin: 'ronaldo-jansen',
+    x: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -65,35 +65,38 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: 'Naldo1818',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+      website: 'https://naldo1818.github.io/Ronaldoprofile/',
+    phone: '078 654 2174',
+    email: 'jansen.ronaldocullen@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
-  ],
+    skills: [
+        'C#',
+        'C++',
+        'Python',
+        'SQL',
+        'JavaScript',
+        'HTML',
+        'CSS',
+        '.NET Framework',
+        'React',
+        'AJAX',
+        'Git',
+        'GitHub',
+        'REST APIs',
+        'Visual Studio',
+        'VS Code',
+        'SQL Server',
+        'MySQL',
+    ],
   experiences: [
     {
       company: 'Company Name',
@@ -154,9 +157,9 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
+    limit: 0, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
