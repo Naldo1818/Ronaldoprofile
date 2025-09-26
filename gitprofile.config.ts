@@ -99,40 +99,46 @@ const CONFIG = {
     ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'HOWLER',
+      position: 'Liaison Manager ',
+      from: 'Dec 2021 ',
+      to: 'Dec 2024(Seasonal)',
+      companyLink: 'https://www.howler.co.za/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Software Engineering Job Simulation',
+      body: 'Software Engineering Job Simulation – Electronic Arts (Forage) ',
+      year: 'February 2025',
+      link: 'https://www.theforage.com/',
+    },
+    {
+      name: 'Cybersecurity Certification',
+      body: 'Cisco Introduction to Cybersecurity Certification',
+      year: 'March 2021',
+      link: 'https://www.netacad.com/',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Nelson Mandela University',
+      degree: 'Advanced National Diploma in Information Technology – Software Development ',
+      from: '2024',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Nelson Mandela University',
+      degree: 'National Diploma in Information Technology – Software Development ',
+      from: '2021',
+      to: '2023',
     },
   ],
   publications: [
@@ -223,7 +229,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://naldo1818.github.io/Ronaldoprofile/"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
