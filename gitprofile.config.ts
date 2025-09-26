@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'HospitalSystem',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Implementing the surgery booking system (capturing surgeon, patient, date, session, and theatre). Developing the prescription module, ensuring surgeons could add medication while the system automatically checked for contra-indications, allergies, and interactions. Implementing an alert system that notifies surgeons of potential medication risks, requiring a justification if overridden. Ensuring surgeons could view prescription statuses and respond to pharmacist feedback. This project demonstrated my ability to work in a team while handling complex database interactions, validation logic, and user interface development for medical professionals',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+              'assets/Hospital.png',
+              link: 'https://github.com/Naldo1818/HospitalSystem',
         },
         {
           title: 'Project Name',
@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Ronaldo Jansen', description: 'Junior Developer', imageURL: '' },
   social: {
-      linkedin: 'ronaldo-jansen',
+      linkedin: 'ronaldo-jansen-0b0018350',
     x: '',
     mastodon: '',
     researchGate: '',
