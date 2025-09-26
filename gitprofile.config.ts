@@ -43,7 +43,7 @@ const CONFIG = {
         {
             title: 'Music-Player',
           description:
-            'A Music player to play local music from your device.',
+            'a Vinyl Music Player web app that simulates a retro turntable experience, featuring a spinning vinyl record, tone arm, and intuitive playback controls such as play, pause, next, previous, and volume adjustment. It displays the current track’s name, artist, and playback progress with time indicators, while also allowing users to upload and play songs directly from their computer through a local music collection section..',
           imageUrl:
             'https://img.freepik.com/premium-vector/vector-icon-vinyl-record_786040-352.jpg?w=2000',
             link: 'https://github.com/Naldo1818/MusicPlayer',
