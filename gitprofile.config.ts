@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Implementing the surgery booking system (capturing surgeon, patient, date, session, and theatre). Developing the prescription module, ensuring surgeons could add medication while the system automatically checked for contra-indications, allergies, and interactions. Implementing an alert system that notifies surgeons of potential medication risks, requiring a justification if overridden. Ensuring surgeons could view prescription statuses and respond to pharmacist feedback. This project demonstrated my ability to work in a team while handling complex database interactions, validation logic, and user interface development for medical professionals',
           imageUrl:
-              'src/assets/Hospital.png',
+              'https://tse2.mm.bing.net/th/id/OIP.nqlJCFGltSVVgSrcWisz6AHaHk?rs=1&pid=ImgDetMain&o=7&rm=3',
               link: 'https://github.com/Naldo1818/HospitalSystem',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'A Music player to play local music from your device.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://img.freepik.com/premium-vector/vector-icon-vinyl-record_786040-352.jpg?w=2000',
             link: 'https://github.com/Naldo1818/MusicPlayer',
         },
       ],
