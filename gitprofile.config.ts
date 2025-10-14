@@ -96,6 +96,9 @@ const CONFIG = {
         'VS Code',
         'SQL Server',
         'MySQL',
+        'Xamarin.Android',
+        'Android UI Design (XML)',
+        'SQLite Integration',
     ],
   experiences: [
     {
