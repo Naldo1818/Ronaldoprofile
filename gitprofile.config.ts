@@ -116,12 +116,17 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certifications: [
+  certifications: [{
+      name: 'Google Project Management',
+      body: 'Google Project Management Cerification',
+      year: 'October 2025',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/CQI3Q4F39XFD',
+    },
     {
       name: 'Software Engineering Job Simulation',
       body: 'Software Engineering Job Simulation – Electronic Arts (Forage) ',
       year: 'February 2025',
-      link: 'https://www.theforage.com/',
+        link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_z6vhLYbCFRRuh4DWd_1739987123728_completion_certificate.pdf',
     },
     {
       name: 'Cybersecurity Certification',
