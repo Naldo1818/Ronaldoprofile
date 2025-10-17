@@ -53,7 +53,7 @@ const CONFIG = {
               description:
                   'The Shop is a Xamarin.Android application that allows barbershop employees to manage customers, queues, and completed haircuts. It also provides real-time reporting and visualizations of completed haircuts. This appliation and moslt created to help me learn mobile dev.',
               imageUrl:
-                  'https://www.bing.com/ck/a?!&&p=f77e73b4608e169a05c9ea40a32ec281331461758a42b904ec86ad4cf6623da8JmltdHM9MTc2MDY1OTIwMA&ptn=3&ver=2&hsh=4&fclid=14081845-64c2-6225-1b83-0c8c65e163e7&u=a1L2ltYWdlcy9zZWFyY2g_cT1zY2lzc29ycytpY29uJmlkPTBEMzYyQzI3RjcyRkFFNjAyOTlEMDBDNEQ2RjM5MTM2NzJBQUMwNDQmRk9STT1JQUNGSVI&ntb=1',
+                  'https://static.vecteezy.com/system/resources/previews/000/350/572/original/scissor-vector-icon.jpg',
               link: 'https://github.com/Naldo1818/TheShop',
           },
       ],
