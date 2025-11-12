@@ -90,10 +90,9 @@ const CONFIG = {
     phone: '078 654 2174',
     email: 'jansen.ronaldocullen@gmail.com',
   },
-  resume: {
-    fileUrl:
-      'https://github.com/Naldo1818/Ronaldoprofile/blob/main/src/assets/RonaldoJansen.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+    resume: {
+        fileUrl: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/RonaldoJansen.pdf',
+    },
     skills: [
         'C#',
         'C++',
