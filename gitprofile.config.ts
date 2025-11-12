@@ -92,7 +92,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/Naldo1818/Ronaldoprofile/blob/main/src/assets/RonaldoJansenCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Naldo1818/Ronaldoprofile/blob/main/src/assets/RonaldoJansen.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
     skills: [
         'C#',
