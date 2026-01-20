@@ -152,13 +152,13 @@ const CONFIG = {
      name: 'Data Analyst Cerification',
      body: 'Meta Data Analyst Cerification',
      year: '2026',
-            link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/RonaldoJansen.pdf',
+            link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraBSX74TTU87PN.pdf',
     },
     {
       name: 'Google Project Management',
       body: 'Google Project Management Cerification',
       year: 'October 2025',
-      link: 'https://www.coursera.org/account/accomplishments/specialization/CQI3Q4F39XFD',
+        link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraCQI3Q4F39XFD.pdf',
     },
     {
       name: 'Software Engineering Job Simulation',
@@ -170,7 +170,7 @@ const CONFIG = {
       name: 'Cybersecurity Certification',
       body: 'Cisco Introduction to Cybersecurity Certification',
       year: 'March 2021',
-      link: 'https://www.netacad.com/',
+        link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/Introduction.pdf',
     },
   ],
   educations: [
