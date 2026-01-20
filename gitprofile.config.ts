@@ -135,7 +135,14 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certifications: [{
+    certifications: [
+    {
+     name: 'Data Analyst Cerification',
+     body: 'Meta Data Analyst Cerification',
+     year: '2026',
+     link: 'https://www.coursera.org/account/accomplishments/records/BSX74TTU87PN',
+    },
+    {
       name: 'Google Project Management',
       body: 'Google Project Management Cerification',
       year: 'October 2025',
