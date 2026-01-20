@@ -94,31 +94,43 @@ const CONFIG = {
         fileUrl: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/RonaldoJansen.pdf',
     },
     skills: [
+        // Programming Languages
         'C#',
         'C++',
         'Python',
         'Dart',
-        'SQL',
         'JavaScript',
+        'SQL',
+
+        // Front-End Development
         'HTML5',
         'CSS3',
+        'Responsive Web Design',
+        'React',
+        'AJAX',
+
+        // Back-End & Frameworks
         '.NET Framework',
         '.NET Core',
-        'React',
-        'Flutter',
-        'AJAX',
-        'Git',
-        'GitHub',
         'RESTful APIs',
-        'Visual Studio',
-        'VS Code',
+
+        // Mobile Development
+        'Flutter',
+        'Xamarin.Android',
+        'Android UI Design (XML)',
+
+        // Databases
         'SQL Server',
         'MySQL',
         'SQLite',
-        'Xamarin.Android',
-        'Android UI Design (XML)',
-        'Responsive Web Design',
-    ],
+
+        // Tools & Version Control
+        'Git',
+        'GitHub',
+        'Visual Studio',
+        'VS Code',
+    ]
+,
   experiences: [
     {
       company: 'HOWLER',
@@ -140,7 +152,7 @@ const CONFIG = {
      name: 'Data Analyst Cerification',
      body: 'Meta Data Analyst Cerification',
      year: '2026',
-     link: 'https://www.coursera.org/account/accomplishments/records/BSX74TTU87PN',
+            link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/RonaldoJansen.pdf',
     },
     {
       name: 'Google Project Management',
