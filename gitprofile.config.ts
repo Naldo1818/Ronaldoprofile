@@ -170,7 +170,7 @@ const CONFIG = {
     {
      name: 'Data Analyst Cerification',
      body: 'Meta Data Analyst Coursa Cerification',
-     year: 'February 2027',
+     year: 'February 2026',
      link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraBSX74TTU87PN.pdf',
     },
     {
