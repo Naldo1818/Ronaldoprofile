@@ -131,7 +131,21 @@ const CONFIG = {
         'VS Code',
     ]
 ,
-  experiences: [
+    experiences: [
+    {
+        company: 'FlyRank AI',
+        position: 'Backend AI Engineer - Intern',
+        from: 'July 2026',
+        to: 'Now',
+        companyLink: 'https://flyrank.ai/',
+    },
+   {
+            company: 'Fiber2You',
+            position: 'Assistant Technician',
+            from: 'Nov 2025',
+            to: 'Apr 2026',
+            companyLink: '',
+   },
     {
       company: 'HOWLER',
       position: 'Liaison Manager ',
@@ -139,13 +153,7 @@ const CONFIG = {
       to: 'Dec 2024(Seasonal)',
       companyLink: 'https://www.howler.co.za/',
     },
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
+   
   ],
     certifications: [
     {
