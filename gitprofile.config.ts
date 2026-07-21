@@ -129,8 +129,7 @@ const CONFIG = {
         'GitHub',
         'Visual Studio',
         'VS Code',
-    ]
-,
+    ],
     experiences: [
     {
         company: 'FlyRank AI',
@@ -140,11 +139,11 @@ const CONFIG = {
         companyLink: 'https://flyrank.ai/',
     },
    {
-            company: 'Fiber2You',
-            position: 'Assistant Technician',
-            from: 'Nov 2025',
-            to: 'Apr 2026',
-            companyLink: '',
+     company: 'Fiber2You',
+     position: 'Assistant Technician',
+     from: 'Nov 2025',
+     to: 'Apr 2026',
+     companyLink: '',
    },
     {
       company: 'HOWLER',
@@ -157,28 +156,40 @@ const CONFIG = {
   ],
     certifications: [
     {
+     name: 'AI Capabilities and Limitations',
+     body: 'AI Capabilities and Limitations Anthropic Cerification',
+     year: 'July 2026',
+     link: 'https://verify.skilljar.com/c/9oxvztafba9i',
+    },
+    {
+      name: 'AI Fluency: Framework & Foundations',
+      body: 'AI Fluency Anthropic Cerification',
+      year: 'July 2026',
+      link: 'https://verify.skilljar.com/c/av3h3mnx4bmy',
+    },
+    {
      name: 'Data Analyst Cerification',
-     body: 'Meta Data Analyst Cerification',
-     year: '2026',
-            link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraBSX74TTU87PN.pdf',
+     body: 'Meta Data Analyst Coursa Cerification',
+     year: 'February 2026',
+     link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraBSX74TTU87PN.pdf',
     },
     {
       name: 'Google Project Management',
-      body: 'Google Project Management Cerification',
+      body: 'Google Project Management Coursa Cerification',
       year: 'October 2025',
-        link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraCQI3Q4F39XFD.pdf',
+      link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/CourseraCQI3Q4F39XFD.pdf',
     },
     {
       name: 'Software Engineering Job Simulation',
       body: 'Software Engineering Job Simulation – Electronic Arts (Forage) ',
       year: 'February 2025',
-        link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_z6vhLYbCFRRuh4DWd_1739987123728_completion_certificate.pdf',
+      link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_z6vhLYbCFRRuh4DWd_1739987123728_completion_certificate.pdf',
     },
     {
       name: 'Cybersecurity Certification',
       body: 'Cisco Introduction to Cybersecurity Certification',
       year: 'March 2021',
-        link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/Introduction.pdf',
+      link: 'https://github.com/Naldo1818/Ronaldoprofile/raw/main/src/assets/Introduction.pdf',
     },
   ],
   educations: [
